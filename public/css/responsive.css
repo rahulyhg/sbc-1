@@ -1,0 +1,444 @@
+@media  (max-width:1220px){
+.header_topmid{width: 80%;}
+.header_topmid_login{width: 40%;}
+.header_top a {margin: 0 0 46px 24px;}
+.header_top .header_topmid_login a, .header_top .header_topmid_signup a, .header_top .header_topmid_program a {margin: 0 0 20px 0;}
+	
+	
+	.header_topmid_quiz {
+		padding-top: 10px;
+		padding-bottom: 146px;
+	}
+	
+	.banner_in {
+		text-align: center;
+	}
+
+}
+@media  (max-width:1190px){
+	.container{ width:100%;}
+	.meal_content figure{height:365px; position:relative; overflow:hidden; }
+	.meal_content figure img{position:absolute; top:0; right:0; height:100%; width:auto;  }
+	.workout_content figure{height:365px; position:relative; overflow:hidden; }
+	.workout_content figure img{position:absolute; top:0; left:0; height:100%; width:auto;  }
+	.mind_content figure{height:365px; position:relative; overflow:hidden; }
+	.mind_content figure img{position:absolute; top:0; right:0; height:100%; width:auto;  }
+	.personality_content ul li img{ width:100%;height:auto;}
+	.adven_inner{ margin:0 21px 0 7%;}
+	.left_workout{padding: 0 7%;}
+	.left_meal{padding: 0 7%;}
+	.left_mind{padding: 0 7%;}
+	.foot_mid { display: block;padding: 0 2%;}
+	
+	
+	
+	.header_topmid_quiz {
+		padding-top: 10px;
+		padding-bottom: 146px;
+	}
+
+}
+@media  (max-width:991px){
+	.adven_inner ol{ padding:0 0 0 7%;}
+	.personality_content p{line-height: 32px;}
+	.personality_content ul	{ width:auto;}
+	.personality_content ul li { padding:0 3px 0 2px; float:none; margin:0 0.5% 0 0;}
+	.adven_inner ol li.divine{ display:none;}
+	.header_topmid h6{ padding: 0 2% 15px 2%;}
+	/*.header_topmid a{padding:14px 8%;margin: 0 0 39px 24px;}*/
+	.header_topmid small{padding: 0 12% 12px;line-height: 25px;}
+	.header_topmid p{font-size: 18px;line-height:26px;padding:0 6px 24px 6px;}
+	.header_topmid p span{font-size: 18px;line-height: 20px;}
+	.header_top a{margin:0 0 35px 24px;}
+	.header_topmid{width: 73%;padding:44px 5% 36px 5%; }
+	
+	.header_topmid_quiz {
+		padding-top: 10px;
+		padding-bottom: 106px;
+	}
+	.row-quiz .btn {
+		margin-bottom: 20px;
+	}
+	
+	.adventure2 p{ padding:0 0 28px 0;}
+	.personality_content ul{padding:0 0 79px 0;}
+	.header .budden_1 {padding:8px 0 0 2%;}
+	.header .budden_1 > li { margin: 0 21px 0 0;}
+	.left_meal h2{font-size:30px; line-height:30px; }
+	.left_meal p{font-size:18px; line-height:22px; }
+	.left_workout h2{font-size:30px; line-height:30px; }
+	.left_workout p{font-size:18px; line-height:22px; }
+	.left_mind h2{font-size:30px; line-height:30px; }
+	.left_mind p{font-size:18px; line-height:22px; }
+	.meal_content figure img{ right:-131px;}
+	.workout_content figure img{ left:-38px;}
+	.mind_content figure img{ right:-80px;}
+	.adventure2 small{ padding:3px 0 9px 0;}
+	.adventure_content{ padding:0 0 25px 0;}
+	.main_content{ padding:48px 0 55px 0;}
+	.left1_ban{ padding:0 0 0 4%;}
+	.adven_inner{ margin:0 0 0 3%;}
+	.header .budden_2{ margin:0;}
+	.adventure2{ padding:0 2%;}
+	.left_footer{width: 80%;}	
+	.banner_middle a{margin: 0 0 16px 0;}
+}
+
+
+
+@media  (max-width:991px){
+.left_workout {padding: 0 4% 0 16%;}
+.left_meal { padding: 0 4% 0 16%;}
+.left_mind { padding: 0 4% 0 16%;}
+.generic_content	{ width:100%;}
+.generic_left		{ padding:5px 2.5% 5px 2.5%;}
+.container1			{ width:99%;}
+.nav_content1 h1, .nav_content1 h2	{ padding:31px 0 24px 14%;}
+.nav_content1 p		{ font-size: 18px; line-height: 26px; padding:0 0 52px 0;}
+.meals h2			{ padding:0 0 20px 0;}
+.learn_bore_blk		{ margin:0 2% 19px 0;}
+}
+
+@media  (max-width:870px){
+.banner_middle {margin: 57px auto 42px auto;}
+.banner_middle h6{font-size: 17px;line-height: 21px;}
+}
+@media  (max-width:820px){
+	.workout .meals_cnt small{font-size: 14px; line-height: 17px;padding:0 0 0 8px;}
+	
+}
+@media  (max-width:767px){
+	.side_box h2 {font-size: 21px;}
+.header.navbar-inverse .navbar-nav > .open > a{ background:none;}
+
+
+.fx_head2 .header .navbar-brand img.img13	{ display:block;height: auto; width: 77%; }
+.fx_head .header .navbar-brand img.img13	{ display:block; height: auto; width: 77%;}
+.progress_cnt ul li	h3{ display:inline-block;}
+.progress_cnt ul li h3	span { float: right; padding: 0 0 0 42px;}
+.dummy_dev .shopping p{ padding:20px 19%;line-height:26px;}
+.meals_cnt a {padding: 11px 25px 11px 25px;}
+.meals_cnt .media .media-left a {
+	padding: 0;
+}
+.header p {font-size: 18px;padding: 0 1% 6px;line-height: 29px;}
+.meals_cnt h3{font-size: 24px;line-height: 25px;}
+.meals h2{padding:20px 0;}
+.nav_content1 {padding: 0px 0 19px 0;}
+.learn_bore_blk { margin: 0px 1% 32px 0;padding:17px 12px;}
+body.fx_head2{position:fixed;width: 100%; }
+body.fx_head{position:fixed; }
+.fx_head .header{background:#fdf3dc;z-index: 999999999999;}
+.fx_head2 .header.header1 {background:#fdf3dc;z-index: 999999999999;}
+.header .navbar-inverse .navbar-toggle .icon-bar{ background:#603840;}
+.adven_inner ol {padding:0 0 0 5.5%;font-size: 25px;}
+.left2_ban ul{ border-left:none;}
+.header .navbar-toggle .icon-bar + .icon-bar { margin-top: 6px;}
+.header .navbar-toggle{border-radius: 6px;}
+.personality_content ul li{width:96%;margin:0;}
+	.left_meal{ padding:0 7%;}
+.left_workout{ padding:0 7%;}
+.left_mind{padding:0 7%;}
+.header .navbar-collapse{ padding:0;}
+.left1_ban p {  font-size: 30px; line-height: 32px;}
+.right_footer ul{ margin:0 0 87px 0;}
+.right_footer ul li{margin:0 85px 0 0;}
+.right_footer ul li a .fa-twitter-square { font-size: 123px;}
+.right_footer ul li a .fa-facebook-square { font-size: 123px;}
+.left2_ban ul{ margin:0 auto 67px;}
+.left1_ban ul li, .left2_ban ul li a {font-size: 43px;line-height: 55px;}
+.footer{ padding:62px 0px 149px 0;}
+.main_content { padding: 48px 0 110px 0;}
+.rock_content a{ margin:0 0 44px 0;}
+.left1_ban, .left2_ban {display: block; float: none; margin: 0 auto; width: 100%;text-align: center;}
+.left_footer{ width:100%;}
+.right_footer { display: block;padding: 0 1%;float: none;text-align: center;}
+.left1_ban{ width:100%;}
+.left1_ban ul li, .left2_ban ul li{ float:none;display:block;margin:0 0 25px 0;}
+.footer .container{ width:100%;}
+.footer .container{font-size:28px;}
+.rleft_footer ul, .right_footer ul{ width:auto;}
+.adventure2 h5{font-size: 30px;line-height: 32px;background-size: 40px 40px;padding:14px 0 8px 50px;}
+.adventure2 small{font-size: 26px;line-height: 32px;padding:3px 0 17px 0;}
+.adventure2 h4{font-size: 30px;line-height: 32px;background-size: 41px 40px;padding: 10px 0px 10px 50px;}
+.adven_inner{ padding:48px 13% 48px 13%;}
+.adven_inner ol li{ padding:0 0 14px 0;}
+.header_topmid ul li .inp1{font-size: 28px;line-height: 36px;padding: 20px 4%;}
+.header_topmid ul li .but1{ width:100%;font-size: 18px;line-height: 36px;padding:19px 0;}
+.header_topmid h6 { padding: 0 11% 15px 11%; font-size: 21px; line-height: 29px; margin: 0 auto; text-align: center;}
+.header_top a {margin: 0 0 46px 24px;}
+.header_topmid ul li {     display: block;float: none;width: 69%;margin:0 auto 8px;}
+.header_topmid a, .header_topmid button{font-size: 28px;line-height: 28px;padding: 19px 12%;margin: 0;}
+.header_topmid a.btn {padding: 19px 12%;}
+.header_topmid small {padding:0 12% 23px;line-height: 40px;font-size: 26px;}
+.header_topmid p span { font-size: 26px;line-height: 37px;}
+.header_topmid p { font-size: 26px; line-height: 37px;padding: 0 6px 32px 6px;}
+.header_topmid img {display: block;margin: 47px auto 54px;width:23%;height: auto;}
+.header_topmid { width: 94%; padding:30px 8% 60px 8%;}
+.banner_in h1 { font-size: 33px; padding: 0 9%;line-height: 41px;margin: 0 0 57px 0;}
+
+
+	.banner_in .caption {padding: 0 60px;}
+.header .container-fluid > .navbar-header{ margin:0;}
+.header .budden_1 {padding:0 3%;display: block;width: 100%;text-align:left;margin:0 0 0 0;}
+.header .budden_1 > li {margin:0 0 0 0;border-bottom: 2px solid #faaf06;}
+.header .navbar-right > li > a{ background:none;padding:19px 0;line-height: 16px !important;text-align:left;border-radius:0;}
+.header .budden_2 {margin: 0;text-align: center;padding:0 3% 22px;}
+.header .budden_2 > li {margin: 0 0 0 0;border-bottom: 2px solid #faaf06;}
+.header{ padding:12px 0 33px 0;}
+.header .budden_2 > li > a:hover{ background:none;}
+.header .budden_1 > li > a{ padding:19px 0;line-height:14px;color:#e5115a;}
+.header .navbar-right > li > a{ color:#e54b17 !important;}
+.header .container-fluid{ padding:0;}
+.meal_content figure img{ right:-120px;}	
+.workout_content figure img{ left:-42px;}
+.mind_content figure img{ right:-120px;}
+.header .navbar-brand{  padding: 15px 2%;width: 273px;}
+.header .navbar-brand img{ height:auto;width:100%;}	
+.header .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus{ background:none;}	
+.header .navbar-inverse .navbar-toggle{ border:2px solid #603840;}
+.navbar-toggle{ padding:13px 14px;}
+.navbar-toggle .icon-bar{ width: 31px;height: 3px;}
+.header .navbar{padding:0px 0 49px 0px;}
+.header .navbar-toggle{margin-top: -2px; margin-right: 7px;z-index: 99999;}
+.header .navbar-inverse .navbar-collapse {border: none;margin: 0; width: 100%; position: fixed; left: 0;top:115px;z-index: 9;background:#fdf3dc;height:100%;}
+.banner_middle {text-align:center;}
+.banner_middle h1 {font-size: 48px;line-height: 56px; padding:0;}
+.banner_middle h2 {font-size: 37px;line-height: 40px; padding:0 7% 76px;}
+.banner_middle a{font-size: 26px;line-height: 28px;padding: 16px 61px;}
+.banner_middle h6 {font-size: 30px;line-height:39px;padding: 0 13%;}
+.banner_middle a {margin: 0;}
+.banner_middle h2{font-size: 37px;line-height: 40px;padding: 0 7% 52px;}
+	.banner_in{padding: 0 0 0px 0;text-align: center;}
+.personality_content ul li{padding: 0 1% 36px;}
+.personality_content ul{ width: 68%;padding: 0 0 35px 0;margin:0 auto;}
+.adven_inner { display: block;margin: 0 auto;width: 81%;padding: 39px 4% 29px 9%;}
+.adventure1{ padding:0 0 49px 0;width: 100%;display: block;margin: 0 auto;}
+.adven_inner h3{font-size: 37px;line-height: 37px;padding: 0 0 30px 0;}
+.adven_inner ol li p{font-size: 26px;line-height: 36px;}
+.adven_inner ol li p a{font-size: 26px;line-height: 26px;}
+.adventure2{ padding:0 7%;}
+.adventure2 p { padding:0 0 35px 0; font-size: 26px;line-height: 32px;}
+.meal_middle{position:static; width:100%; padding:30px 0; }
+.workout_middle{position:static; width:100%; padding:30px 0; }
+.mind_middle{position:static; width:100%; padding:30px 0; }
+.left_meal{width:100%; }	
+.left_workout{width:100%; }
+.left_mind{width:100%; }
+.meal_content figure{background-size:100% auto; display:none; }
+.meal_content figure img{right:0; display:none; }
+.workout_content figure{ background-size:100% auto; display:none; }
+.workout_content figure img{right:0; display:none; }
+.mind_content figure{background-size:100% auto; display:none; }
+.mind_content figure img{right:0; display:none; }
+.left_meal h2 {font-size: 51px;line-height: 51px;}	
+.left_meal p { font-size: 28px;line-height: 45px;}
+.left_workout h2 {font-size: 51px;line-height: 51px;}	
+.left_workout p { font-size: 28px;line-height: 45px;}
+.left_mind h2 {font-size: 51px;line-height: 51px;}	
+.left_mind p { font-size: 28px;line-height: 45px;}
+.rock_content a{font-size: 32px;line-height: 56px;padding: 31px 9%;}
+.rock_content p{font-size: 34px;line-height: 34px;}
+.personality_content p br{ display:none;line-height:34px;}
+.left_mobile{ display:block;}
+.left_mobile .left1_ban{ display: block;text-align: center;width: 100%;}
+.header1					{ background:none;}
+.learn_bore_blk p a			{ display:none;}
+.header1 .navbar-inverse .navbar-toggle		{ border:2px solid #ab0d40;}
+.header1 .navbar-inverse .navbar-toggle .icon-bar	{ background:#e5115a;}
+.header .navbar-brand img.img12	{ display:none; }
+.header .navbar-brand img.img13	{ display:block; }
+.nav_content1 h1, .nav_content1.title_wide h1, .nav_content1 h2, .nav_content1.title_wide h2 { padding:153px 0 5px 0;   text-align: center;margin: 51px 0 16px 0;} 
+.nav_content1 p					{ font-size: 22.45px;    padding: 0 1% 15px;}
+.icon-program-1 {background: none;}
+.icon-program-2 {background: none;}
+.icon-lg-program-1 {background:url(/img/icon-lg-program-1.png) no-repeat center top;} 
+.icon-lg-program-2 {background:url(/img/icon-lg-program-2.png) no-repeat center top;} 
+.learn_bore_blk p				{ font-size: 24.27px;}
+.dummy_dev .progress_cnt		{ display:block;}
+.progress_cnt .dummy_dev 		{ display:none;}
+.dummy_dev						{ display:block;}
+.shopping .progress_cnt		{ display:block;}
+.shopping .dummy_dev 		{ display:none;}
+.progress_cnt ul { padding: 30px 0 0 0;}
+.meals_cnt a{ color:#ffffff;}
+
+.media .media-body .media-heading a {
+	text-decoration: none;
+	font-size: 18px;
+	color:#3c7cac;
+	padding: 0 25px 11px 0;
+}
+.media .media-body .media-heading a:hover {
+	color: #e54b17;
+}
+.dummy_dev .shopping		{ display:block;}
+.dummy_dev .shopping.event 		{ display:block;}
+.progress_cnt	{ display:none;}
+.shopping		{ display:none;}
+.shopping.event 		{ display:none;}
+.progress_cnt h2 {padding: 18px 0;}
+.progress_cnt ul li{text-align:center;}
+.meals{ border-bottom:none;padding:7px 0 16px 0;}
+.mean{border-bottom: 2px solid #faaf06 !important;margin:0 0 20px 0;}
+.meals_cnt {padding: 0 0 24px 0;border-bottom:none;margin: 0 0 15px 0;}
+.intterupt{ border-bottom:none;}
+.oddco { border-bottom:2px solid #faaf06;margin: 0 0 33px 0;}
+.excercise{border-top: 2px solid #faaf06 !important;padding:0;}
+.workout{border-top: 2px solid #faaf06 !important;}
+	
+	#resultDiv img {
+		width: 124px;
+		height: 124px;
+	}
+	
+	.header_topmid_quiz {
+		padding-top: 10px;
+		padding-bottom: 106px;
+	}
+
+}
+@media  (max-width:680px){
+
+.header_topmid ul li .inp1 { font-size: 20px;line-height: 30px; padding: 15px 4%;}
+.header_topmid ul li .but1 { width: 100%;font-size: 20px; line-height: 36px; padding: 12px 0;}
+.header_topmid h6 { padding: 0 4% 15px 4%;font-size: 25px;line-height: 34px;margin: 0 auto;}
+	
+	
+	
+	.header_topmid_quiz {
+		padding-top: 10px;
+		padding-bottom: 106px;
+	}
+
+
+}
+@media  (max-width:640px){
+.rock_content a { font-size: 32px;line-height: 56px;padding: 31px 6%;}	
+	
+	
+	
+	.header_topmid_quiz {
+		padding-top: 10px;
+		padding-bottom: 106px;
+	}
+	
+	
+}
+
+@media  (max-width:599px){
+.side_box h2 {font-size:21px; line-height:27px; padding:13px 0;}
+.adven_inner ol {padding: 0 0 0 6.5%;}
+.rock_content a{font-size: 24px;line-height: 35px;padding: 20px 5%;}
+.left_meal p {font-size: 18px;line-height: 27px;}
+.left_meal h2 {font-size: 42px;line-height:42px;}
+.left_workout p {font-size: 18px;line-height: 27px;}
+.left_workout h2 {font-size: 42px;line-height:42px;}
+.left_mind p {font-size: 18px;line-height: 27px;}
+.left_mind h2 {font-size: 42px;line-height:42px;}
+.meal_middle{ padding:7px 0;}
+.mind_middle{ padding:7px 0;}
+.workout_middle{ padding:7px 0;}
+.adventure2 small {font-size: 22px;line-height: 28px;padding: 3px 0 6px 0;}
+.adventure2 h4{font-size: 28px;line-height: 30px;background-size: 39px 37px;}
+.adventure2 h5{font-size: 28px;line-height: 30px;background-size: 39px 37px;}
+.main_content {padding: 44px 0 37px 0;}
+.left1_ban ul li, .left2_ban ul li a {font-size: 29px;line-height: 29px; margin: 0 0 45px 0px;}
+.left1_ban ul, .left2_ban ul { margin: 0 auto 34px;text-align: center;padding: 0 1%;display: block;}
+.right_footer ul { margin: 0 0 22px 0;}
+.right_footer ul li a .fa-facebook-square { font-size: 90px;}
+.right_footer ul li a .fa-twitter-square { font-size: 90px;}
+.right_footer ul li {margin: 0 26px 0 0;}
+.footer {padding: 33px 0px 59px 0;}
+.header p { font-size: 19px; padding: 0 1%;}
+/*.header p br{ display:none;}*/
+.banner_middle {margin: 96px auto 46px auto;}
+.banner_middle h6 {font-size: 23px; line-height: 30px; padding: 0 5%;}
+.banner_middle a { font-size: 20px; line-height: 20px;padding: 14px 43px;}
+.banner_middle h2 { font-size: 27px; line-height: 34px; padding: 0 4% 34px;}
+.banner_in {text-align: center;}
+.banner_in h1 { font-size: 36px; padding: 0%;line-height: 42px; margin: 0 0 36px 0;}
+.header_topmid h6 {padding: 0px 2% 15px 2%;font-size: 20px; line-height: 27px;margin: 0 auto;}
+/*.header_topmid a {font-size: 20px;line-height: 27px; padding: 9px 9%;margin:0 auto 9px;}*/
+.header_topmid small {padding: 0 2% 23px;line-height: 27px; font-size: 18px;}
+.header_topmid p {font-size: 18px;line-height: 24px;}
+.header_topmid p span {font-size: 18px;line-height: 24px;}
+.header_topmid { width: 94%; padding: 30px 6% 60px 6%;}
+.banner_middle a { margin: 0 0 17px 0;}
+.workout .meals_cnt small{ padding:10px 0 0 8px;}
+	
+	
+	.header_topmid_quiz {
+		padding-top: 10px;
+		padding-bottom: 106px;
+	}
+}
+@media  (max-width:479px){
+	.nav_content1 h2, .nav_content1 h2{margin:0;}
+	.dummy_dev .shopping p { padding: 9px 3%;line-height: 23px;}
+	.adven_inner ol { padding: 0 0 0 10%;}
+	.mind_content figure{height: 250px;}
+	.workout_content figure{height: 250px;}
+	.meal_content figure{height: 250px;}
+	.rock_content a {font-size: 15px;line-height: 32px;padding: 18px 4%;margin:29px 0 39px;}
+	.adven_inner h3 {font-size: 26px;line-height: 29px;padding: 6px 0% 9px 3%;}
+	.footer {padding: 27px 0px 39px 0;}
+	.right_footer ul li {margin: 0 10px 0 0;}
+	.left1_ban p {font-size: 16px;line-height: 16px;}
+	.right_footer ul li a .fa-twitter-square {font-size: 60px;}
+	.right_footer ul li a .fa-facebook-square {font-size: 60px;}
+	.left2_ban ul li a {font-size: 16px;line-height: 23px;margin: 0 0 15px 0px;}
+	.main_content {padding: 4px 0 5px 0;}
+	.rock_content p {font-size: 18px;line-height: 24px;padding:0 0 6px 0}
+	.left_meal h2{font-size: 34px;line-height: 37px;padding: 0 0 7px 0;}
+	.left_workout h2{font-size: 34px;line-height: 37px;padding: 0 0 7px 0;}
+	.left_mind h2{font-size: 34px;line-height: 37px;padding: 0 0 7px 0;}
+	.left_meal p {font-size: 16px;line-height: 25px;}
+	.left_workout p {font-size: 16px;line-height: 25px;}
+	.left_mind p {font-size: 16px;line-height: 25px;}
+	.adventure2 h5 {font-size: 21px;line-height: 26px;background-size:25px 25px; padding: 14px 0 8px 36px;}
+	.adventure2 h4 {font-size: 21px;line-height: 26px;background-size: 25px 25px;padding: 10px 0px 10px 36px;}
+	.adventure2 small {font-size: 18px;line-height: 23px;padding: 0 1%;}
+	.adventure2 p {padding: 0 0 22px 0;font-size: 20px; line-height: 26px;}
+	.adven_inner {display: block;margin: 0 auto; width: 96%;padding: 0 5%;}
+	.adven_inner ol li p { font-size: 20px;line-height: 22px;}
+	.adven_inner ol li p a{ font-size: 20px;line-height: 22px;}
+	adven_inner h3 {font-size: 26px;line-height: 33px; padding: 0 0 19px 0;}
+	.personality_content ul{ padding:0 0 8px 0;}
+	.personality_content p{font-size: 20px;line-height: 26px;padding: 0 0 26px 0;}
+	.banner_middle {padding:18px 0 19px 0;}
+	.banner_middle h6 {font-size: 18px;line-height: 28px;padding: 0 3%;}
+	.banner_middle a { font-size: 13px;line-height: 17px;padding: 13px 22px;}
+	.banner_middle h2 {font-size: 20px; line-height: 28px;padding: 0 3% 20px;}
+	.header .navbar {padding: 0px 0 42px 0px;}
+	.banner_in h1 {font-size: 21px;padding: 0 3%;line-height: 28px;margin: 0 0 21px 0;}
+	.header .navbar-inverse .navbar-collapse{    top:88px;}
+	.header .navbar-brand {padding: 1px 2%;width: auto;}
+	.header_topmid small {padding: 0 2% 23px; line-height: 25px;font-size: 16px;}
+	.header_topmid ul li .inp1 {font-size: 16px;line-height: 26px;padding: 10px 4%;}
+	.header_topmid ul li .but1 {width: 100%;font-size: 16px;line-height: 26px;padding: 11px 0;}
+	.header_topmid ul li{ width:98%;}
+	.left_footer { display: block; padding: 0;width: 100%;float: none;text-align: center;}
+	.adven_inner ol li {padding: 0 0 14px 0;}
+	.header p{    font-size: 16px; padding:0 2% 11px;line-height: 22px;}
+	.learn_bore_blk p{    font-size: 16px; padding:0 2% 0px;line-height: 22px; }
+	.header_topmid{width: 96%;}
+	.header_topmid p{padding:0 1% 14px;}
+	.header_topmid h6{padding: 0 1%; font-size: 16px; line-height: 27px;}
+	.header_topmid{ padding:11px 6% 58px 6%;}
+	.left2_ban ul li{ margin:0;}
+	.workout .meals_cnt small{padding: 0 1%;font-size: 14px; line-height:21px;}
+	.nav_content1 h1, .nav_content1 h2{font-size: 20px;line-height: 26px;}
+	.nav_content1 h1, .nav_content1 h2 span{font-size: 20px; line-height: 26px;}
+	.workout .meals_cnt a {margin: 0 0 9px 0;}
+	
+	
+	
+	.header_topmid_quiz {
+		padding-top: 10px;
+		padding-bottom: 106px;
+	}
+	
+
+}
+

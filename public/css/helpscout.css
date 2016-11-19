@@ -1,0 +1,103 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:300,300i,400,700,900';
+
+body {
+	font-family: 'Lato', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #333;
+}
+
+.navbar .nav a {
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 20px;
+	color: #067fbc;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#docsSearch {
+	background: #ffffff;
+	border-bottom: 0;
+	color: #e5115a;
+}
+
+#searchBar button {
+	background: #e5115a;
+	border: 1px solid #e5115a;
+}
+
+#searchBar button:hover {
+	background: #EF3776;
+	border: 1px solid #EF3776;
+}
+
+textarea, input[type=text], input[type=password], input[type=datetime], input[type=datetime-local], input[type=date], input[type=month], input[type=time], input[type=week], input[type=number], input[type=email], input[type=url], input[type=search], input[type=tel], input[type=color], .uneditable-input,
+textarea:focus, input:focus, input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, input[type=datetime-local]:focus, input[type=date]:focus, input[type=month]:focus, input[type=time]:focus, input[type=week]:focus, input[type=number]:focus, input[type=email]:focus, input[type=url]:focus, input[type=search]:focus, input[type=tel]:focus, input[type=color]:focus, .uneditable-input:focus
+{
+	border: 1px solid #EF3776;
+}
+
+h1, #docsSearch h1, #fullArticle h1, {
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 28px;
+	line-height: 28px;
+	color: #e5115a;
+}
+
+#categoryHead h1 {
+	color: #e5115a;
+}
+
+.contentWrapper p.descrip {
+	font-size: 18px;
+	line-height: 30px;
+	color: #e54b17;
+}
+
+h2 {
+	padding: 0 0 14px 0;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 22px;
+	color: #e54b17;
+}
+
+.category-list {
+	text-align: center;	
+}
+
+.category-list.two-col .category {
+	width: 90%;
+	margin: 0 0 0;
+	padding: 1.5em 0;	
+}
+
+.category-list h3 {
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 22px;
+	color: #e54b17;
+}
+
+#fullArticle h1, #fullArticle h2, #fullArticle h3, #fullArticle h4, #fullArticle h5 {	
+	color: #e5115a;
+}
+
+#fullArticle, #fullArticle p, #fullArticle ul, #fullArticle ol, #fullArticle li, #fullArticle div, #fullArticle blockquote, #fullArticle dd, #fullArticle table {
+	color: #333;
+}
+
+#fullArticle p, #fullArticle ul, #fullArticle ol, #fullArticle li, #fullArticle div, #fullArticle blockquote, #fullArticle dd, #fullArticle table {
+	font-size: 16px;
+	line-height: 1.7em;
+}
+
+#fullArticle .title {
+    margin: 0 30px 1.2em 0;
+}
